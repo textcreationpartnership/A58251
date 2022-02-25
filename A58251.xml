@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against grafting or splicing and for dissolving this present East-India Company, or joint-stock, and erecting and establishing a new national joint-stock or company, more extensive and universal, on a better constitution and terms of settlement.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58251</idno>
+            <idno type="STC">Wing R522A</idno>
+            <idno type="STC">ESTC R36699</idno>
+            <idno type="EEBO-CITATION">15987332</idno>
+            <idno type="OCLC">ocm 15987332</idno>
+            <idno type="VID">104679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against grafting or splicing and for dissolving this present East-India Company, or joint-stock, and erecting and establishing a new national joint-stock or company, more extensive and universal, on a better constitution and terms of settlement.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated: London, January 3, 1689/90.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104679:1"/>
+            <head>REASONS Humbly offered againſt GRAFTING or SPLICING, And for Diſſolving this <hi>Preſent Eaſt-India Company,</hi> OR, JOINT-STOCK: And ERECTING and ESTABLISHING A NEW <hi>National Joint-Stock or Company.</hi> More Extenſive and Univerſal, on a better Conſtitution and Terms of Settlement.</head>
+            <p>Firſt, <seg rend="decorInit">T</seg>His preſent Company or Joynt-Stock is only an <hi>imagi<g ref="char:EOLhyphen"/>nary Fund,</hi> not having any <hi>real Stock</hi> of its own left to carry on the Trade, according to the general Judg<g ref="char:EOLhyphen"/>ment of all that have Knowledge, and are moſt in<g ref="char:EOLhyphen"/>tuitous in that Affair, as alſo of many the concerned, and ſo can upon no Account be conceived a ſuitable Foundation to <hi>build</hi> or <hi>graft</hi> ſo large and <hi>National a Trade</hi> upon.</p>
+            <p>Nor will it ſuit with the Wiſdom of Perſons verſed in Trade to join Stocks with any in a hazardous, low, weak, bankrupt Condition, having but a bare <hi>nominal Stock.</hi>
+            </p>
+            <p>Nor will it be agreeable with the Foreſight and Prudence of ſo Serene and Auguſt an Aſſembly as the <hi>Honorable Houſe of Commons,</hi> to entruſt ſo vaſt a Trade in the hands of ſuch as have <hi>no Stock</hi> therein, and permit them to reap the whole or chief benefit thereof.</p>
+            <pb n="2" facs="tcp:104679:2"/>
+            <p>And it would ſeem injurious to the reſt of the Subjects of <hi>England,</hi> that thoſe that have had the benefit thereof ſo long, and have received all (if not much more than all) their real principal Stock out by Dividends, ſhould yet have the ſame benefit continued to them on account of an <hi>imaginary Stock,</hi> to the excluding and depriving all the reſt of the Subjects of <hi>England</hi> who deſire to partake thereof according to their Birthright.</p>
+            <p>Nor is it the effect of Modeſty, Ingenuity, or Publick Spiritedneſs, but the direct contrary, in any, to deſire or propoſe any ſuch Project.</p>
+            <p>That this preſent Company is in ſo bad and mean a Condition, may be concluded from ſeveral Topicks; as, by their ſtudious Endeavours to con<g ref="char:EOLhyphen"/>ceal the true State of their Stock, as ſeems manifeſt by that <hi>dark, general, un<g ref="char:EOLhyphen"/>mercantile Account</hi> they lately gave in to the <hi>Honorable Committee of Parliament;</hi> to whom, in reſpect of their Kindneſs and Patience to them (if Autho<g ref="char:EOLhyphen"/>rity had no ſway) they might have given one more candid; and proba<g ref="char:EOLhyphen"/>bly they had if their State would have admitted of a more clear and parti<g ref="char:EOLhyphen"/>cular Inſpect: for tho it were ſo that they want three or four Years Books from <hi>India</hi> (which by the way is an impardonable Crime, and renders their Servants worthy of ſevere Caſtigation, and not ſuch high Encomiums gi<g ref="char:EOLhyphen"/>ven them unleſs it were by direction) yet they might have produced a more <hi>fair, clear, particular, ſatisfying Account,</hi> if ſo it had pleaſed them; for had they brought in the Balance of their laſt Books from <hi>India,</hi> with an Ac<g ref="char:EOLhyphen"/>count of what quick Stock hath been ſent out, and Goods received thence ſince, and their Debts and quick Stock here, ſome Computation might have been made, ſomewhat more or leſs; and that it hath been omitted argues <hi>all is not right.</hi>
+            </p>
+            <p>But admitting the Account as given in, by which they would have it believed they have much about the Sum of 700000 <hi>l.</hi> yet thence being de<g ref="char:EOLhyphen"/>ducted the ſeveral Sums and Articles omitted to be mentioned in the ſaid Account, and what is over-rated therein in their own favour, being truly valued, their Stock will not be found to be other than <hi>merely imaginary,</hi> if not <hi>vaſtly behind-hand</hi> (which if ſo, Juſtice will require of the Adventurers) as for inſtance;</p>
+            <list>
+               <item>Their Goods in <hi>Englamd</hi> (for Money they have none) they value at 635155 <hi>l.</hi> 11 <hi>s.</hi> 10 <hi>d.</hi> (they are it ſeems very exact;) theſe Goods, in all Mens Opinions converſant therein, will not yield 400000 <hi>l.</hi> ſo they have in this Article overvalued themſelves at leaſt 200000 <hi>l.</hi>
+               </item>
+               <item>Freight and Demorage on Ships returned, more than acknow<g ref="char:EOLhyphen"/>ledged in their Account, not leſs than 40000 <hi>l.</hi>
+               </item>
+               <item>Servants Wages due, not put down in their Account, cannot be computed leſs than 15000 <hi>l.</hi>
+               </item>
+               <item>Damages to the Subjects of <hi>England</hi> for Seiſures, Force, Oppreſ<g ref="char:EOLhyphen"/>ſions, Violences, Rapines, <hi>&amp;c.</hi> at a moderate Computation, 150000 <hi>l.</hi>
+               </item>
+               <item>Freight and Demorage for about 12000 Tuns of Shipping now abroad, which cannot amount to ſo little a Sum as 300000 <hi>l.</hi>
+               </item>
+               <pb n="3" facs="tcp:104679:2"/>
+               <item>Owing at Intereſt in <hi>India</hi> many Years, at 9, 12, and 15 <hi>per Cent.</hi> (notable good Husbandry) at leaſt 400000 <hi>l.</hi>
+               </item>
+               <item>Satisfaction to the <hi>Indians</hi> for all Damages, and to procure a Peace upon former Terms, a very vaſt Sum. — <hi>l.</hi>
+               </item>
+               <item>Deſperate and bad Debts in <hi>India,</hi> which amounts to no ſmall Sum, and the conſtant Expence there. — <hi>l.</hi>
+               </item>
+               <item>Satisfaction to the Relations to ſuch of the <hi>Engliſh</hi> Subjects as have been murthered by their Power and Orders, which poſ<g ref="char:EOLhyphen"/>ſibly may moſt affect <hi>the Managers</hi> that ſigned the Inſtructi<g ref="char:EOLhyphen"/>ons, and procured the Orders, and the price of Blood being invaluable, it's left in Blank. —</item>
+               <item>Satisfaction to the Nation and State for all the Wrongs, Abu<g ref="char:EOLhyphen"/>ſes to the Subject, aſſuming <hi>Deſpotick Power, and Sovereign Authority,</hi> and exerciſing the ſame in Captures, Violences, Rapines, Piracies, Murthers, <hi>&amp;c.</hi> 500000 <hi>l.</hi>
+               </item>
+            </list>
+            <p>If any be aggrieved at the laſt Article, let him conſider what Sums were laid upon a World of People in the laſt Reigns upon Actions between Sub<g ref="char:EOLhyphen"/>ject and Subject for Trifles, meer Words, ſome perhaps only imaginary, as in the Caſe of the preſent Lord Mayor Sir <hi>Thomas Pilkinton,</hi> Doctor <hi>Oates,</hi> Sir <hi>Trevor Williams,</hi> Mr. <hi>Arnold,</hi> Mr. <hi>Colt</hi> and others; and many upon In<g ref="char:EOLhyphen"/>dictments of the State, as Sir <hi>Samuel Barnardiſton,</hi> Sir <hi>William Williams,</hi> Mr. <hi>Hambden,</hi> Mr. <hi>Sacheverel</hi> and the <hi>Guild-Hall Rioters, &amp;c.</hi> (whoſe bleſſed fortune it was, that the Appellation of <hi>Rebels</hi> inſtead of <hi>Rioters</hi> was not blundered upon, but that Error was rectified with a witneſs upon the poor <hi>S. Helenians</hi>) and then this Sum, how bulky ſoever it may look at firſt ſight will doubtleſs be judged a very moderate calculation even by the Company themſelves; more eſpecially if any of the Members thereof have been ſo ſe<g ref="char:EOLhyphen"/>vere, and had the conſcience upon ſuch ſlight matters to accept of Verdicts for ſuch <hi>vaſt Sums,</hi> on their private account, as the Defendants were no way able to pay, and to take out Execution, and lay them in Jayl for their lives; theſe ſure with their Friends and Adherents, of all others, cannot think much of paying their Quota of the above-mentioned Sum, or a greater, which, as deſigned, may deter others from committing the like for the fu<g ref="char:EOLhyphen"/>ture, and be a help and eaſe to the Nation in reducing <hi>Ireland,</hi> and extirpating <hi>Arbitrary Government.</hi>
+            </p>
+            <p>Now if after theſe Reaſons aſſigned for this Fine, the Age ſhould yet be ſo prodigally merciful, as to pardon or mitigate it, the Company will notwith<g ref="char:EOLhyphen"/>ſtanding ſtill appear to be in a very ill plight.</p>
+            <p>And as it was no mean Affrontery to the Nation, ſo it brought a diſmal Cloud upon the Reputation of the Stock, rendering it more than ſuſpected; that the Company at ſuch a ſeaſon, under high Accuſations, and upon Inqui<g ref="char:EOLhyphen"/>ſition thereinto by Parliament, ſhould unreaſonably make a Dividend, as was done lately of 50 <hi>per Cent.</hi> (which is the entire firſt principal Stock) whenas they had not at the ſame time Money enough in <hi>England</hi> to pay it; what could be the meaning hereof? but that they deſigned to draw out
+<pb n="4" facs="tcp:104679:3" rendition="simple:additions"/>their whole Stock and much more, and ſo to leave an <hi>empty Bag,</hi> and a <hi>great Demand</hi> to embaraſs the Nation; and 'tis the Opinion of all, that, if not prevented, they will upon the next Sale make another Dividend, for they have refuſed to accept thereupon of any Debentures or Bonds owing by them, as uſual, but to have all ready Money.</p>
+            <p>Secondly, This preſent Company, or Joint-Stock is of very <hi>ill Fame,</hi> as an <hi>illegal, rank, bitter Stock,</hi> ſuch as no honeſt Man can or dare join with, or graft up<g ref="char:EOLhyphen"/>on; being founded and planted in a direct oppoſition to the <hi>Native Liberty</hi> of the Subject; cultivated, cheriſhed and influenced by the Hand of Tyranny and and arbitrary Power, watered with the Tears, Groans, and Eſtates of the Sub<g ref="char:EOLhyphen"/>jects of <hi>England,</hi> and hath grown up to an unbounded <hi>Deſpotick Power,</hi> aſſuming to it ſelf, and aſpiring to by others, an <hi>unhoopable Power</hi> over Goods, Liber<g ref="char:EOLhyphen"/>ties, and Properties of <hi>Engliſh</hi> Men at pleaſure, and exerted the ſame to the great intangling the preſent Stock, occaſioning vaſt Demands, Suits, <hi>&amp;c.</hi> And ſhould any join with, or graft upon ſuch a <hi>Stock</hi> what Bleſſing what Suc<g ref="char:EOLhyphen"/>ceſs can be expected? but that all ſhould be curſed; it would be like the plowing with an Ox and an Aſs; and abhorring, or ſowing divers ſeeds to the polluting the Harveſt.</p>
+            <p>Thirdly, This preſent Company, or Joint-Stock is under a much greater <hi>Obloquy,</hi> as guilty of the worſt of Crimes, the moſt infamous Impieties, not only great Rapines and Oppreſſions, but of <hi>Notorious, Cruel, Bloody Murthers;</hi> either to ſatisfie their own ſavage barbarous Tempers, or to comply with a deſignedly enſlaving Court. Theſe are they that have ſhed the Blood of War in Peace, and to continue and graft upon ſuch a Stock will endanger a parti<g ref="char:EOLhyphen"/>cipation of the ſame Guilt, Condemnation and Puniſhment, and ſeem too much to juſtifie what hath been done, tho juſtly to be abhorred by all, and harden and encourage to a further reiterated Commiſſion of the like in the future; whereas it rather ſeems the Duty of all Men of Senſe, Honor and Conſcience, ſo to deteſt ſuch a <hi>Stock</hi> for, and on account of ſuch flagitious Crimes, as to endeavour an utter extirpation of the very memory of them, a total oblivion of them being the greateſt kindneſs can be ſhewn them, and the beſt Tombſtone that can be laid upon them; and in truth how ſhall ſuch an <hi>Obloquy</hi> be wiped away but by an entire Diſſolution of them?</p>
+            <p>Fourthly, This preſent Company, or Joint-Stock, is not only guilty of thoſe vile infamous Acts beforementioned, but as the ſad provoking Aggra<g ref="char:EOLhyphen"/>vation thereof have perpetrated many of them in the ſight of the Sun, under the hypocritical Diſguiſe of Juſtice declaring their Sin as <hi>Sodom,</hi> not being a<g ref="char:EOLhyphen"/>ſhamed thereof, glorying therein, inſtead of coming upon their Knees, ac<g ref="char:EOLhyphen"/>knowledging their Guilt, giving Glory to God by Confeſſion and Repentance, (if peradventure Remiſſion may be granted them by a merciful and juſt God) and ſatisfaction to man for Injuries done them, they have offered in the pride and arrogancy of their hearts to juſtifie the ſame at the Bar of the Ho<g ref="char:EOLhyphen"/>norable Houſe, and endeavour'd by baſe indirect means to ſtifle and take off the Evidence, and ſtill continue in the ſame humor, as appears in their Nar<g ref="char:EOLhyphen"/>rative, and ſeem not all ſenſible of their impious Acts, more than of the
+<pb n="5" facs="tcp:104679:3"/>Puniſhment that threatens them, being <hi>Pharaoh</hi> like, as it ſhould ſeem, ju<g ref="char:EOLhyphen"/>dicially hardened, paſt repentance, never to be convinced, never to be con<g ref="char:EOLhyphen"/>verted, but become deteſtable to God and man; to man for injuries done them, to God for their riveted impenitency; therefore by no means to be <hi>continued, grafted</hi> on, or <hi>clouted,</hi> but as paſt all hopes <hi>(Ne pars ſincera tra<g ref="char:EOLhyphen"/>hatur)</hi> there remains only the laſt remedy, an <hi>utter Diſſolution</hi> of them. <hi>Amen, Amen.</hi>
+            </p>
+            <p>Fifthly, This preſent Company, or Joint-Stock <hi>continued,</hi> and <hi>grafted</hi> on, will not conſiſt with the <hi>Honor and Juſtice of the Nation,</hi> who in their Re<g ref="char:EOLhyphen"/>preſentatives, upon a full hearing at their Bar, and ſerious Debate thereon, have voted them guilty of no leſs than <hi>murthering the Subjects of</hi> England. And who can have the confidence to deſire the Continuance of, or the Folly to join with ſuch a Society? And what a Reflection will it be to have the ſame Society eſtabliſhed by the Nation? It hath been a common Obſerva<g ref="char:EOLhyphen"/>tion, that ſuch as the Houſe of Commons have at any time ſhewed their Diſlike of, charged or impeached, what Intereſt ſoever they might have had before in the Nation's Eſteem, and what methods ſoever they may have uſed to keep up, or regain their Credit; yet tho they may have ſecured themſelves in their Stations, and continue their <hi>Neſts on high,</hi> yet they never regain the favor and good will of the People, or Nation: nor is there any Love ever loſt on the other ſide, it rarely happening, but that ſuch Perſons or Societies ever after prove bitter Enemies to a Free Houſe of Commons. Inſtances hereof many might be given, but the Living ſhall be ſpared, and the Dead covered; and will the Commons of <hi>England,</hi> after ſuch a Vote, ever have any thoughts of conſtituting them a ruling Corporation? What might then be expected but reacting the ſame Miſchiefs with a greater malice, as always hath been in ſuch Caſes; but let never ſuch a thing be ſaid of our <hi>Healers and Reſtorers,</hi> but let their Votes proceed to Judgment; and the loweſt piece of Juſtice that can be inflicted on them, the ſmalleſt Attonement that can be made to the Honor and Juſtice of the Nation, is a diſenabling them to act the ſame over again, which can be by no other means than diſcharging them their Office, which is diſſolving of them.</p>
+            <p>Sixthly, This preſent Company, or Joint-Stock grafted on, will be a great hazard and inſecurity to the Nation; the Trade of <hi>India</hi> is of vaſt import to the Kingdom, and is computed by ſome to amount to an eighth, by others a ſixth part of the Trade thereof; and the Power and Intereſt, eſpecially Naval, of ſuch a Company, will be exceeding great, which according to the grafting Model will terminate and reſolve into the ſame Hands it is in at preſent, and hath been for ſome time; and what ſort of Men theſe are for Principles and Practices their own Acts have ſounded forth to the whole World, as well in what hath been performed under the Conduct of this Society, as otherwhere. This very Society was of the firſt that made Addreſſes to the late King, with a promiſe of ſlaviſh complyance to that illegal arbitrary demand of continuing the Cuſtoms then expired, to the encouraging and ſetting up of <hi>Popery</hi> and <hi>Tyranny,</hi> and was a leading Card to the reſt of the leſſer Companies, and
+<pb n="6" facs="tcp:104679:4"/>particular Merchants to a tame ſubmiſſion to that Badge of Slavery, <hi>Raiſing Money by Proclamations,</hi> and of this Action they publickly and highly boaſted, va<g ref="char:EOLhyphen"/>luing themſelves mightily thereon. But how much favour and reſpect they or their Introducers deſerve of the Nation on that account, is ſoon caſt up: and more particularly divers of them have declared themſelves, upon all Accounts, Friends to <hi>Arbitrary Power</hi> and <hi>Tyranny,</hi> and have been <hi>paltry Tools of State</hi> in the late Reigns. To whom do we owe the grand Invaſion of our Liberties and Properties, the fatal Violation of the Privileges and Rights of this great City, and all the direful unbleſs'd Conſequences that ſucceeded, but to ſome of the <hi>prime Adventurers</hi> and <hi>Managers</hi> amongſt them, who have ſignalized their Zeal to a Government, in Church and State, neither agreeable to the Laws of our Land, Good and Liberty of the Subject, or to the pure unde<g ref="char:EOLhyphen"/>filed Proteſtant Religion. And will the Wiſdom of the Nation think fit to put ſo great a Power and Intereſt into the Hands of the late King's Tools? How great miſchiefs might thence ariſe to the Nation on ſundry Accounts, is better to be imagined, and provided againſt, than tryed and felt; therefore may there be no <hi>Grafting,</hi> but a <hi>Diſſolution,</hi> which infallibly ſecures us in that reſpect.</p>
+            <p>Seventhly, This preſent Company, or Joint-Stock grafted upon, will no ways anſwer the <hi>End</hi> deſigned of making the Trade, or Management thereof more <hi>Diffuſive</hi> and <hi>National,</hi> according to the Conſtitution of this Kingdom, and Native Right and Liberty of the People, but will ſtill be a ſore <hi>Mo<g ref="char:EOLhyphen"/>nopoly</hi> to the great Grievance of the Subject. The Propoſal of Enlargement being only to one Million, and the old Stock being calculated (tho not really worth one Groat) to amount to three parts of four of it, the new to be joined thereto, it follows, muſt amount to no more than a fourth part of the whole, or a third part of the preſent <hi>Nominal Stock:</hi> ſo that the old Adven<g ref="char:EOLhyphen"/>tures will be three to one before any new Subſcriptions, and moſt probably four or five to one after Subſcriptions; for their own engroſſing policy will oblige them to ſubſcribe largely to keep it in their own Hands; and then what ſort of Enlargement or Grafting will this be? What conſiderable part of the Nation will have room to come in? And what kind of perſons muſt thoſe few be, ſeeing it will not be the Intereſt of either wiſe politick men, nor of honeſt good men to engage, ſo that it will neceſſarily remain in the hands of the ſame arbitrary perſons it's now already in, and this <hi>Grafting</hi> or <hi>Splicing</hi> will make no Alteration in the Management neither; for as they have projected the Buſineſs by the <hi>ten Votes,</hi> which is the ſame in this reſpect, as two hundred, tho they ſhould be all new Men chat come in and graft, yet they can make no Balance with the old ones, no, not to make one Com<g ref="char:EOLhyphen"/>mittee-Man; therefore, of courſe, it muſt fall into the hands of the ſame nu<g ref="char:EOLhyphen"/>merical perſons, and having the ſame Managers there will be the ſame Fruits, and ſo continue, as hitherto it hath been, an <hi>intolerable Burthen,</hi> an <hi>unſupportable Yoke</hi> of Iron, under which the whole Nation complains and groans, and have their Eyes fixed upon the Parliament for redreſs, before whom the Caſe is ſpread.</p>
+            <pb n="7" facs="tcp:104679:4"/>
+            <p>Eighthly, The preſent Company, or Joint-Stock have enjoyed this Trade of <hi>India</hi> ſolely to themſelves, excluſive to all others, in a <hi>Monopoly</hi> upward of thirty years, to their vaſt advantage; and ſurely ſuch have no reaſon to complain of Injuſtice, or any hard uſage, if the Nation ſhould after their ſo long an Enjoyment reſume the Trade into its own Hands, and diſſolve their Society, more eſpecially ſeeing they may all come in, and partake of the New Joint-Stock in a National Way by becoming Subſcribers thereto.</p>
+            <p>Ninthly, The diſſolving this preſent Company, or Joint-Stock, and e<g ref="char:EOLhyphen"/>recting a new one, is the moſt likely, probable, ready way to retrieve our loſt decayed Trade of <hi>India,</hi> and procure and ſettle a firm laſting Peace on good Terms with the <hi>Indians.</hi> What Peace will they grant or keep ſo long as thoſe that have been the Cauſes and Executors of all the Miſchiefs that have befallen, be continued in power? Or what aſſurance can they have of thoſe that have broken all Faith and good Manners with them.</p>
+            <p>Tenthly, The Diſſolution of this preſent Company, or Joint-Stock, and Eſtabliſhing a new National One, will greatly enlighten the Nation, and make no mean Diſcovery of hidden Works of Darkneſs, uſeful to be known to the publick; the grand Diſpute of the Greatneſs of their Stock will then be at an end, all will appear manifeſt and open. If it prove as they ſay, the Be<g ref="char:EOLhyphen"/>nefit will be their own; but if otherwiſe, the People will be undeceived, and ſee what Impoſals they have been under, and what Dangers they are delivered from; the whole Intrigue of the Management will be made apparent, how they have complyed with, and crouched to an inſlaving Court, to eſtabliſh in themſelves a <hi>Deſpotick Power,</hi> only to ſatisfie their own corrupt inclinations, help forward, ſettle and bind on the Subject of <hi>England</hi> a <hi>Court deſigned Ty<g ref="char:EOLhyphen"/>ranny,</hi> and many other <hi>Neſts of Villany,</hi> which then will not any longer be concealed.</p>
+            <p>Eleventhly, The diſſolving this preſent Company, or Joint-Stock, and eſtabliſhing a new National One, will much tend, be a great help, and go far towards a full entire Settlement of the Nation, it being a Concern of ſuch extent, as an eighth or ſixth part of the Foreign Trade of the Kingdom.</p>
+            <p>Twelfthly, The diſſolving this preſent Joint-Stock, and eſtabliſhing a new National One, is that which agrees and falls in with the Genius of the moſt conſiderable part of the Nation at this Day; and in publick Refor<g ref="char:EOLhyphen"/>mations it hath generally ſeemed expedient, to the Wiſdom of Parliaments, to proceed in, and take ſuch Methods as are moſt agreeable to the Conſti<g ref="char:EOLhyphen"/>tution of the Nation, the Laws of the Land, Right of the Subject, and conſo<g ref="char:EOLhyphen"/>nant to the Bent and Spirit of the beſt and moſt thinking part of the People, which ſeems abſolutely againſt confirming any <hi>illegal,</hi> or <hi>grafting, clouting, patching, ſplicing</hi> any <hi>weak, doubted, failing, drooping, <hi>Nominal</hi> Stock,</hi> but wholly for a <hi>Bran-New One,</hi> erected by new Subſcriptions, eſtabliſhed and ſettled by Parliament upon ſuch a Baſis and Conſtitution as may make it moſt Nationally extenſive, according to the Birthright of the Subject, and moſt ſuitable and advantageous for the ſaid Commerce.</p>
+            <pb n="8" facs="tcp:104679:5" rendition="simple:additions"/>
+            <p>Much more might be added upon this Subject; but what is already offered, if well weighed, is conceived, will fully evince what was undertaken; and therefore to ſum up all, ſeeing the preſent Company appears to have only an <hi>imaginary Stock</hi> for the carrying on the Trade, and that its Conſtitution is <hi>il<g ref="char:EOLhyphen"/>legal</hi> and <hi>pernicious,</hi> founded on <hi>Arbitrary Power,</hi> and accordingly have acted ſo, as to bring themſelves under diſmal <hi>Obloquies</hi> by <hi>unlawful Diſpoſſeſſions,</hi> and <hi>girding</hi> themſelves with the <hi>Blood of the Subject,</hi> without any <hi>remorſe,</hi> ready to act the ſame over again, tho under the Judgment of the Nation con<g ref="char:EOLhyphen"/>demned by the Houſe of Commons, therefore never to be truſted more; ſo that it will neither conſiſt with the <hi>Juſtice, Honor</hi> or <hi>Security</hi> of the Nation to have this Company continued, nor the <hi>Wiſdom, Honeſty, Integrity, Genius</hi> and <hi>Spirit</hi> of any true <hi>Engliſh</hi> Men to <hi>graft</hi> thereon, ſeeing it can make no Altera<g ref="char:EOLhyphen"/>tion in its Conſtitution, Management or Managers, nor any ways wipe off that Obloquy it lies under in the ſight of the Nation. Therefore it<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s neceſſary it be diſſolved, being its Diſſolution is no injury to the concerned, they ha<g ref="char:EOLhyphen"/>ving enjoyed the ſame, to the Nations damage, thirty years, and upward, and it being the moſt probable means of reſtoring the Trade, and ſettling a firm laſting Peace with the <hi>Indians,</hi> and is that which will bring to light many hidden Works of Darkneſs, to the Satisfaction, as well as Benefit of the Subject, tend much to the ſettling the Nation, is ſuitable to the Laws of the Land, Liberty of the Subject, and to the preſent Inclination of the ſo<g ref="char:EOLhyphen"/>ber conſiderable part of the People. Surely none that have any love for their Country, and can prefer a vaſt laſting National publick Utility and Advan<g ref="char:EOLhyphen"/>tage, but muſt abſolutely conclude againſt <hi>Graftings,</hi> and entirely for diſſol<g ref="char:EOLhyphen"/>ving this preſent Company, and erecting and eſtabliſhing a new National Joint-Stock, more Extenſive and Univerſal, on a better Conſtitution and Terms of Settlement. Which is the earneſt Deſire of all true hearted <hi>Engliſh</hi> Men; and the ſole Deſign of this Paper.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>January</hi> 3, 1689/90.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
